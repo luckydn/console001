@@ -1,0 +1,15 @@
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/bin/Debug/net6.0/console001
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/bin/Debug/net6.0/console001.deps.json
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/bin/Debug/net6.0/console001.runtimeconfig.json
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/bin/Debug/net6.0/console001.dll
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/bin/Debug/net6.0/console001.pdb
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/console001.csproj.AssemblyReference.cache
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/console001.GeneratedMSBuildEditorConfig.editorconfig
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/console001.AssemblyInfoInputs.cache
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/console001.AssemblyInfo.cs
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/console001.csproj.CoreCompileInputs.cache
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/console001.dll
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/refint/console001.dll
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/console001.pdb
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/console001.genruntimeconfig.cache
+/Users/plohihsergey/Documents/gb_lek/Exsample/console001/obj/Debug/net6.0/ref/console001.dll
